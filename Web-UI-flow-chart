@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-08T09:40:47.947Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="wSTvcUynHY-LlIplLK2S" version="13.11.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-12-08T09:45:02.125Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="U-fMJAXOl4p8l7ScW6Kb" version="13.11.0" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="High-lvl">
     <mxGraphModel dx="1264" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -106,7 +106,7 @@
         </mxCell>
         <mxCell id="-5oFWP2QGkC3w1RM01_u-8" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="-5oFWP2QGkC3w1RM01_u-7">
           <mxGeometry x="-0.1941" y="-1" relative="1" as="geometry">
-            <mxPoint x="-1" y="-1" as="offset" />
+            <mxPoint x="8.24" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-5oFWP2QGkC3w1RM01_u-9" value="Experience with &lt;br&gt;Katalon Studio?" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="-5oFWP2QGkC3w1RM01_u-1">
@@ -197,7 +197,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-5oFWP2QGkC3w1RM01_u-32" value="Open&amp;nbsp;&lt;span style=&quot;font-family: &amp;#34;roboto&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;Katalon Web Utility&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-5oFWP2QGkC3w1RM01_u-1">
-          <mxGeometry x="240" y="315" width="120" height="50" as="geometry" />
+          <mxGeometry x="230" y="317.5" width="140" height="45" as="geometry" />
         </mxCell>
         <mxCell id="6qKxmuQhJu75NGXFXVx--2" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="-5oFWP2QGkC3w1RM01_u-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
