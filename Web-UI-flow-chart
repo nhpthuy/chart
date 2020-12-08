@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-08T17:42:18.282Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="VVxINFCpSuwscFLCftFf" version="13.11.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-12-08T17:43:34.659Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.67 Safari/537.36" etag="FxKhov6GxfcZZtKDv3OF" version="13.11.0" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="High-lvl">
     <mxGraphModel dx="1082" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -76,7 +76,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Quick start" id="MmJLBkbqPyu2dnBc0Szx">
-    <mxGraphModel dx="1359" dy="641" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1585" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="-5oFWP2QGkC3w1RM01_u-0" />
         <mxCell id="-5oFWP2QGkC3w1RM01_u-1" parent="-5oFWP2QGkC3w1RM01_u-0" />
@@ -140,7 +140,7 @@
             <mxPoint x="5" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-5oFWP2QGkC3w1RM01_u-24" value="&lt;span&gt;Add element to Object Repository&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-5oFWP2QGkC3w1RM01_u-1">
+        <mxCell id="-5oFWP2QGkC3w1RM01_u-24" value="&lt;span&gt;Add element to Object Repository/ Store script&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-5oFWP2QGkC3w1RM01_u-1">
           <mxGeometry x="1560" y="702.5" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="-5oFWP2QGkC3w1RM01_u-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="-5oFWP2QGkC3w1RM01_u-1" source="-5oFWP2QGkC3w1RM01_u-27" target="-5oFWP2QGkC3w1RM01_u-29">
