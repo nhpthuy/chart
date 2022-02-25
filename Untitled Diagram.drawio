@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-18T07:33:21.744Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="hSrAbDF2HnQae6PA3nfu" version="16.3.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-02-25T04:27:57.856Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="yGE8pS8mzvnzUwUr40oq" version="16.3.0" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="conduct-data-binding-at-tc">
     <mxGraphModel dx="1577" dy="1957" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -271,7 +271,7 @@
         <mxCell id="ChAdXzxrMKeNjNrX0plX-20" value="KSE" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="G7K1ntuhQkjRjKOpwgsV-1">
           <mxGeometry x="1510" y="96" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ChAdXzxrMKeNjNrX0plX-21" value="1. New project:&lt;br&gt;b. TC &amp;amp; TS has no data binding&amp;nbsp;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="G7K1ntuhQkjRjKOpwgsV-1">
+        <mxCell id="ChAdXzxrMKeNjNrX0plX-21" value="2.1. New project:&lt;br&gt;b. TC &amp;amp; TS has no data binding&amp;nbsp;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="G7K1ntuhQkjRjKOpwgsV-1">
           <mxGeometry x="1241.0036363636366" y="176" as="geometry" />
         </mxCell>
         <mxCell id="g6Rv6Hhnv-sXQ9xXqwC8-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="G7K1ntuhQkjRjKOpwgsV-1">
@@ -292,7 +292,7 @@
         <mxCell id="g6Rv6Hhnv-sXQ9xXqwC8-18" value="Select which kind of Data Binding will be used to execute the test" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;glass=0;strokeWidth=1;shadow=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="G7K1ntuhQkjRjKOpwgsV-1">
           <mxGeometry x="1943" y="230" width="247" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="g6Rv6Hhnv-sXQ9xXqwC8-20" value="2. Existing project:&lt;br&gt;b. TC &amp;amp; TS has data binding" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="G7K1ntuhQkjRjKOpwgsV-1">
+        <mxCell id="g6Rv6Hhnv-sXQ9xXqwC8-20" value="2.2. Existing project:&lt;br&gt;b. TC &amp;amp; TS has data binding" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=15;" vertex="1" connectable="0" parent="G7K1ntuhQkjRjKOpwgsV-1">
           <mxGeometry x="1241.0036363636366" y="337" as="geometry" />
         </mxCell>
         <mxCell id="g6Rv6Hhnv-sXQ9xXqwC8-30" value="" style="endArrow=none;html=1;rounded=0;fontSize=16;" edge="1" parent="G7K1ntuhQkjRjKOpwgsV-1">
