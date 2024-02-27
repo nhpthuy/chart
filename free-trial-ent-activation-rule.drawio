@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-27T09:12:41.439Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="6MPnGqtKIlDX5CaRjjbY" version="22.1.17" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-02-27T09:27:45.186Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="HEoKKCJOV-yWQVowygvz" version="22.1.17" type="github" pages="2">
   <diagram id="9O9KCCIOQ3YAV7k6xrfi" name="free-user-flow">
     <mxGraphModel dx="1990" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -222,45 +222,45 @@
           <mxGeometry x="851.5" y="559" width="173" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1fNIm3ZTluTkqgQv12WL-84" value="If a newer free version is released, user &lt;b&gt;will be forced updating&lt;/b&gt; to continue using KS" style="shape=note;size=20;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" parent="1" vertex="1">
-          <mxGeometry x="1011" y="380" width="279" height="69.5" as="geometry" />
+          <mxGeometry x="1077.5" y="380" width="279" height="69.5" as="geometry" />
         </mxCell>
         <mxCell id="gorHrbccctaqjpS9-5Xx-9" value="New user" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="852.5" y="422" width="90" height="80" as="geometry" />
+          <mxGeometry x="891.5" y="422" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gorHrbccctaqjpS9-5Xx-16" value="If a newer free version is released, user &lt;b&gt;will not be forced updating&lt;/b&gt; to continue using KS" style="shape=note;size=20;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" parent="1" vertex="1">
-          <mxGeometry x="1011" y="468" width="280" height="72" as="geometry" />
+          <mxGeometry x="1080" y="470" width="280" height="72" as="geometry" />
         </mxCell>
         <mxCell id="gorHrbccctaqjpS9-5Xx-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="gorHrbccctaqjpS9-5Xx-9" target="1fNIm3ZTluTkqgQv12WL-84" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="960" y="462" />
-              <mxPoint x="960" y="415" />
+              <mxPoint x="1000" y="462" />
+              <mxPoint x="1000" y="415" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="gorHrbccctaqjpS9-5Xx-26" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="gorHrbccctaqjpS9-5Xx-24" vertex="1" connectable="0">
           <mxGeometry x="0.5437" y="5" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-5" y="5" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="gorHrbccctaqjpS9-5Xx-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="gorHrbccctaqjpS9-5Xx-9" target="gorHrbccctaqjpS9-5Xx-16" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="960" y="462" />
-              <mxPoint x="960" y="504" />
+              <mxPoint x="1000" y="462" />
+              <mxPoint x="1000" y="506" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="gorHrbccctaqjpS9-5Xx-27" value="NO" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="gorHrbccctaqjpS9-5Xx-25" vertex="1" connectable="0">
           <mxGeometry x="0.4204" y="4" relative="1" as="geometry">
-            <mxPoint x="5" y="-1" as="offset" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="trial-ent-user-flow" id="kHZbJ7nMe-b2eEuRYBOV">
-    <mxGraphModel dx="1990" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2985" dy="1188" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="lkUs5cnOLUfml-Zy0qM8-0" />
         <mxCell id="lkUs5cnOLUfml-Zy0qM8-1" parent="lkUs5cnOLUfml-Zy0qM8-0" />
