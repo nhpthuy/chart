@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-27T10:19:39.598Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="4_D3ThY3fFiSj3_lmiKA" version="22.1.17" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-02-27T10:21:48.193Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="Jx_tnpum9c_WaAElTSBe" version="22.1.17" type="github" pages="3">
   <diagram id="9O9KCCIOQ3YAV7k6xrfi" name="free-user-flow">
     <mxGraphModel dx="2388" dy="950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -444,7 +444,7 @@
           <mxGeometry x="909.9999999999999" y="530" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vmp03qOqfIL94sCVFv0g-54" value="Guide to download KS edition" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="vmp03qOqfIL94sCVFv0g-1">
-          <mxGeometry x="1133.5" y="530" width="173" height="60" as="geometry" />
+          <mxGeometry x="1163.5" y="530" width="173" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vmp03qOqfIL94sCVFv0g-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="vmp03qOqfIL94sCVFv0g-1" source="vmp03qOqfIL94sCVFv0g-57" target="vmp03qOqfIL94sCVFv0g-60">
           <mxGeometry relative="1" as="geometry">
