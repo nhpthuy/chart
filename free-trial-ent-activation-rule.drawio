@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-07T04:32:22.894Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="80xJZXxsLPJSDUT-zTum" version="22.1.17" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-03-07T04:35:36.027Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="IrdJVwCI2JSZDplreCmB" version="22.1.17" type="github" pages="3">
   <diagram id="9O9KCCIOQ3YAV7k6xrfi" name="free-user-flow">
     <mxGraphModel dx="1194" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -275,7 +275,7 @@
             <mxPoint x="910" y="112" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J7CLOc7o1Emr6ITSiGFR-4" value="YES=ENT USER" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="vmp03qOqfIL94sCVFv0g-2" vertex="1" connectable="0">
+        <mxCell id="J7CLOc7o1Emr6ITSiGFR-4" value="YES=PAID USER" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="vmp03qOqfIL94sCVFv0g-2" vertex="1" connectable="0">
           <mxGeometry x="-0.1773" y="4" relative="1" as="geometry">
             <mxPoint x="33" as="offset" />
           </mxGeometry>
@@ -334,7 +334,7 @@
             <mxPoint x="16" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vmp03qOqfIL94sCVFv0g-13" value="TRIAL/ENT USER" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.user;" parent="vmp03qOqfIL94sCVFv0g-1" vertex="1">
+        <mxCell id="vmp03qOqfIL94sCVFv0g-13" value="TRIAL/PAID USER" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.user;" parent="vmp03qOqfIL94sCVFv0g-1" vertex="1">
           <mxGeometry x="197" y="30" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vmp03qOqfIL94sCVFv0g-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="vmp03qOqfIL94sCVFv0g-1" source="vmp03qOqfIL94sCVFv0g-18" target="J7CLOc7o1Emr6ITSiGFR-5" edge="1">
@@ -348,7 +348,7 @@
             <mxPoint x="910.8499999999999" y="289.9999999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vmp03qOqfIL94sCVFv0g-15" value="YES=ENT USER" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="vmp03qOqfIL94sCVFv0g-14" vertex="1" connectable="0">
+        <mxCell id="vmp03qOqfIL94sCVFv0g-15" value="YES=PAID USER" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="vmp03qOqfIL94sCVFv0g-14" vertex="1" connectable="0">
           <mxGeometry x="-0.0172" y="5" relative="1" as="geometry">
             <mxPoint x="-16" y="-1" as="offset" />
           </mxGeometry>
@@ -412,7 +412,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vmp03qOqfIL94sCVFv0g-37" value="YES=ENT USER" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="vmp03qOqfIL94sCVFv0g-36" vertex="1" connectable="0">
+        <mxCell id="vmp03qOqfIL94sCVFv0g-37" value="YES=PAID USER" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="vmp03qOqfIL94sCVFv0g-36" vertex="1" connectable="0">
           <mxGeometry x="0.1035" y="1" relative="1" as="geometry">
             <mxPoint x="33" y="-4" as="offset" />
           </mxGeometry>
@@ -476,7 +476,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vmp03qOqfIL94sCVFv0g-59" value="YES=ENT USER" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="vmp03qOqfIL94sCVFv0g-58" vertex="1" connectable="0">
+        <mxCell id="vmp03qOqfIL94sCVFv0g-59" value="YES=PAID USER" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="vmp03qOqfIL94sCVFv0g-58" vertex="1" connectable="0">
           <mxGeometry x="0.1035" y="1" relative="1" as="geometry">
             <mxPoint x="-44" y="-4" as="offset" />
           </mxGeometry>
