@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-22T08:55:05.229Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="3UJkMzzi63D6n2cfP9oI" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-22T08:57:35.434Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="BJnzI4AHslRMGVguB21n" version="24.7.1" type="github">
   <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
-    <mxGraphModel dx="2593" dy="1321" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2183" dy="1113" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -155,19 +155,19 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SAdEDekwwvnTSsliWkF6-146" value="Test Lead - An Tran" style="rounded=1;fillColor=#7EA6E0;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#333333;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="SAdEDekwwvnTSsliWkF6-146" value="QE Lead - An Tran" style="rounded=1;fillColor=#7EA6E0;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#333333;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1738" y="920" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SAdEDekwwvnTSsliWkF6-147" value="Tech Lead - Vy Le" style="rounded=1;fillColor=#7EA6E0;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#333333;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1920.5" y="920" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SAdEDekwwvnTSsliWkF6-149" value="Lead QE - ?" style="rounded=1;fillColor=#7EA6E0;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#333333;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="SAdEDekwwvnTSsliWkF6-149" value="QE Lead - ?" style="rounded=1;fillColor=#7EA6E0;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#333333;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="2082" y="920" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SAdEDekwwvnTSsliWkF6-150" value="Tech Lead - Nghia Dang" style="rounded=1;fillColor=#7EA6E0;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#333333;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="2260" y="920" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SAdEDekwwvnTSsliWkF6-152" value="Lead QE - ?" style="rounded=1;fillColor=#7EA6E0;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#333333;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="SAdEDekwwvnTSsliWkF6-152" value="QE Lead - ?" style="rounded=1;fillColor=#7EA6E0;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#333333;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="2440" y="920" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SAdEDekwwvnTSsliWkF6-176" value="AI&#xa;(Duy Lam)" style="rounded=1;fillColor=#7EA6E0;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#333333;fontSize=14;" vertex="1" parent="1">
