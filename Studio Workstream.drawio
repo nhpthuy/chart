@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-07-22T08:57:35.434Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="BJnzI4AHslRMGVguB21n" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-22T08:57:44.811Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="YGhAnH1WmBth4zk0wMX3" version="24.7.1" type="github">
   <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
-    <mxGraphModel dx="2183" dy="1113" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2765" dy="1409" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="SAdEDekwwvnTSsliWkF6-55" value="Katalon Studio" style="rounded=1;fillColor=#67AB9F;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#333333;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="2530" y="150" width="200" height="60" as="geometry" />
+          <mxGeometry x="2550" y="150" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SAdEDekwwvnTSsliWkF6-56" value="Katalon Studio Free&#xa;(Thuy Ngo)" style="rounded=1;fillColor=#79C9BB;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#333333;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="2970" y="300" width="220" height="60" as="geometry" />
