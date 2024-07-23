@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-23T03:14:26.203Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="MFdG9WU6-_Uc9h3pYANI" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-23T03:15:26.396Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="m0aQPiPX3ZZPS6q2LFUa" version="24.7.1" type="github">
   <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
-    <mxGraphModel dx="1193" dy="646" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="530" dy="287" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,8 +22,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SAdEDekwwvnTSsliWkF6-67" value="Katalon Studio Enterprise&#xa;(Philip Becker)" style="rounded=1;fillColor=#9ECCC4;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#333333;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="2033.5" y="252" width="220" height="60" as="geometry" />
+        <mxCell id="SAdEDekwwvnTSsliWkF6-67" value="Katalon Studio Enterprise + Katalon Runtime Engine&#xa;(Philip Becker)" style="rounded=1;fillColor=#9ECCC4;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#333333;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="1955.25" y="252" width="376.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SAdEDekwwvnTSsliWkF6-70" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;strokeWidth=4;endArrow=block;endFill=1;fontStyle=1;strokeColor=#23445D;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontColor=#333333;" parent="1" source="SAdEDekwwvnTSsliWkF6-55" target="SAdEDekwwvnTSsliWkF6-67" edge="1">
           <mxGeometry x="22" y="165.5" width="100" height="100" as="geometry">
