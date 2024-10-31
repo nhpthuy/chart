@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-10-31T07:14:26.523Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" etag="TGiVOgY_WpX-YpIEXjiK" version="24.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-10-31T07:21:41.658Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" etag="vAFyv6UIp4hm5Ezs7paR" version="24.7.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2419" dy="1832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1529" dy="1461" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -11,8 +11,8 @@
           <mxGeometry x="160" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-4" value="Yes" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-6" edge="1">
-          <mxGeometry x="-0.0042" y="-10" relative="1" as="geometry">
-            <mxPoint y="-21" as="offset" />
+          <mxGeometry x="-0.0046" y="-10" relative="1" as="geometry">
+            <mxPoint x="10" y="-10" as="offset" />
             <mxPoint x="580" y="100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -267,6 +267,12 @@
         </mxCell>
         <mxCell id="V_erhRNzieJmQouqGz0d-89" value="AI" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="990" y="-230" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="V_erhRNzieJmQouqGz0d-92" value="Auto open sample project" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="V_erhRNzieJmQouqGz0d-93" value="Web Spy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1360" y="-330" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
