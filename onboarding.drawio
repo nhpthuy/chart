@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-11-04T03:01:42.154Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" etag="FP9qjTSrE-pQn7bgajxB" version="24.7.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-11-04T03:02:58.518Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" etag="wdyAKdpuuFFBP5QwcQFY" version="24.7.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1964" dy="1642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3215" dy="2163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -238,10 +238,10 @@
         <mxCell id="V_erhRNzieJmQouqGz0d-63" value="&lt;div&gt;Project Mgt&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-250" y="490" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="V_erhRNzieJmQouqGz0d-65" value="&lt;div&gt;TC Mgt&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="V_erhRNzieJmQouqGz0d-65" value="&lt;div&gt;Test Case Mgt&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-110" y="490" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="V_erhRNzieJmQouqGz0d-66" value="&lt;div&gt;TS Mgt&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="V_erhRNzieJmQouqGz0d-66" value="&lt;div&gt;Test Suite Mgt&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="316.88" y="490" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="V_erhRNzieJmQouqGz0d-67" value="&lt;div&gt;Feature file Mgt&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
