@@ -456,7 +456,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="e0ZfyP2rIxEf_Xubz2BX" name="Login">
-    <mxGraphModel dx="1592" dy="659" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1194" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -571,7 +571,7 @@
         </mxCell>
         <mxCell id="RTh1-TizIQVp2FlqtpAP-32" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RTh1-TizIQVp2FlqtpAP-31">
           <mxGeometry x="-0.4483" y="4" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-9" y="4" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RTh1-TizIQVp2FlqtpAP-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RTh1-TizIQVp2FlqtpAP-29" target="RTh1-TizIQVp2FlqtpAP-33">
@@ -762,7 +762,7 @@
         <mxCell id="RTh1-TizIQVp2FlqtpAP-128" value="throw warning message" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="480" y="1209" width="90" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="RTh1-TizIQVp2FlqtpAP-130" value="&lt;span style=&quot;&quot;&gt;- Message: Your license will expire at 11:55, you may need to log in again to continue working with Katalon Studio&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;- Button: Acknowledge&lt;/span&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="RTh1-TizIQVp2FlqtpAP-130" value="&lt;span style=&quot;&quot;&gt;- Message (should be generic): Your license will expire at 11:55, you may need to log in again to continue working with Katalon Studio&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;- Button: Acknowledge&lt;/span&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="140" y="1255" width="270" height="84" as="geometry" />
         </mxCell>
         <mxCell id="RTh1-TizIQVp2FlqtpAP-131" value="&lt;span style=&quot;&quot;&gt;- Message: Your license has been expired at 11:55, please log in again to continue working with Katalon Studio&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;- Button: Re-login&amp;nbsp;&lt;/span&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
@@ -960,7 +960,7 @@
         <mxCell id="RTh1-TizIQVp2FlqtpAP-182" value="&lt;span style=&quot;&quot;&gt;- Message: Your session will expire at 11:55, please click on &quot;Acknowledge&quot; before 11:55 to keep your session&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;- Button: Acknowledge&lt;/span&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="140" y="1787" width="280" height="93" as="geometry" />
         </mxCell>
-        <mxCell id="RTh1-TizIQVp2FlqtpAP-183" value="&lt;span style=&quot;&quot;&gt;- Message: Your session has been expired at 11:55, please log in again to continue working with Katalon Studio&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;- Button: Re-login&amp;nbsp;&lt;/span&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+        <mxCell id="RTh1-TizIQVp2FlqtpAP-183" value="&lt;span style=&quot;&quot;&gt;- Message: Your session has been expired at 11:55 due to inactive.., please log in again to continue working with Katalon Studio&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;- Button: Re-login&amp;nbsp;&lt;/span&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="480" y="1787" width="300" height="93" as="geometry" />
         </mxCell>
       </root>
