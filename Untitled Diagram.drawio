@@ -456,7 +456,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="e0ZfyP2rIxEf_Xubz2BX" name="Page-4">
-    <mxGraphModel dx="1706" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1405" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -593,8 +593,8 @@
         </mxCell>
         <mxCell id="RTh1-TizIQVp2FlqtpAP-68" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="90" y="1050" as="sourcePoint" />
-            <mxPoint x="920" y="1050" as="targetPoint" />
+            <mxPoint x="90" y="1009" as="sourcePoint" />
+            <mxPoint x="920" y="1009" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RTh1-TizIQVp2FlqtpAP-69" value="T1" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="RTh1-TizIQVp2FlqtpAP-68">
@@ -614,8 +614,8 @@
         </mxCell>
         <mxCell id="RTh1-TizIQVp2FlqtpAP-72" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="90" y="1150" as="sourcePoint" />
-            <mxPoint x="920" y="1150" as="targetPoint" />
+            <mxPoint x="90" y="1109" as="sourcePoint" />
+            <mxPoint x="920" y="1109" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RTh1-TizIQVp2FlqtpAP-73" value="T1" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="RTh1-TizIQVp2FlqtpAP-72">
@@ -635,71 +635,71 @@
         </mxCell>
         <mxCell id="RTh1-TizIQVp2FlqtpAP-76" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RTh1-TizIQVp2FlqtpAP-78">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="1023" as="sourcePoint" />
-            <mxPoint x="200" y="1150" as="targetPoint" />
+            <mxPoint x="200" y="982" as="sourcePoint" />
+            <mxPoint x="200" y="1109" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RTh1-TizIQVp2FlqtpAP-78" value="interval checking" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="170" y="989" width="60" height="30" as="geometry" />
+          <mxGeometry x="170" y="948" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RTh1-TizIQVp2FlqtpAP-79" value="license expired" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="410" y="1090" width="60" height="30" as="geometry" />
+          <mxGeometry x="410" y="1049" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RTh1-TizIQVp2FlqtpAP-82" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RTh1-TizIQVp2FlqtpAP-79">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="420" y="1210" as="sourcePoint" />
-            <mxPoint x="440" y="1250" as="targetPoint" />
+            <mxPoint x="420" y="1169" as="sourcePoint" />
+            <mxPoint x="440" y="1209" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RTh1-TizIQVp2FlqtpAP-84" value="record checking (timestamp)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="155" y="1147" width="90" height="46" as="geometry" />
+          <mxGeometry x="155" y="1106" width="90" height="46" as="geometry" />
         </mxCell>
         <mxCell id="RTh1-TizIQVp2FlqtpAP-87" value="interval checking" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="990" width="60" height="30" as="geometry" />
+          <mxGeometry x="330" y="949" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RTh1-TizIQVp2FlqtpAP-89" value="interval checking" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="489" y="991" width="60" height="30" as="geometry" />
+          <mxGeometry x="489" y="950" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RTh1-TizIQVp2FlqtpAP-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RTh1-TizIQVp2FlqtpAP-94">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="1250" as="targetPoint" />
+            <mxPoint x="360" y="1209" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="360" y="1190" />
-              <mxPoint x="360" y="1190" />
+              <mxPoint x="360" y="1149" />
+              <mxPoint x="360" y="1149" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="RTh1-TizIQVp2FlqtpAP-94" value="record checking (timestamp)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="315" y="1147" width="90" height="46" as="geometry" />
+          <mxGeometry x="315" y="1106" width="90" height="46" as="geometry" />
         </mxCell>
         <mxCell id="RTh1-TizIQVp2FlqtpAP-95" value="record checking (timestamp)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="474" y="1147" width="90" height="46" as="geometry" />
+          <mxGeometry x="474" y="1106" width="90" height="46" as="geometry" />
         </mxCell>
         <mxCell id="RTh1-TizIQVp2FlqtpAP-97" value="interval checking" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="648" y="989" width="60" height="30" as="geometry" />
+          <mxGeometry x="648" y="948" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RTh1-TizIQVp2FlqtpAP-99" value="record checking (timestamp)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="633" y="1145" width="90" height="46" as="geometry" />
+          <mxGeometry x="633" y="1104" width="90" height="46" as="geometry" />
         </mxCell>
         <mxCell id="RTh1-TizIQVp2FlqtpAP-101" value="interval checking" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="809" y="989" width="60" height="30" as="geometry" />
+          <mxGeometry x="809" y="948" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RTh1-TizIQVp2FlqtpAP-103" value="record checking (timestamp)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="794" y="1145" width="90" height="46" as="geometry" />
+          <mxGeometry x="794" y="1104" width="90" height="46" as="geometry" />
         </mxCell>
         <mxCell id="RTh1-TizIQVp2FlqtpAP-104" value="license abt to expire" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="90" y="1090" width="60" height="30" as="geometry" />
+          <mxGeometry x="90" y="1049" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RTh1-TizIQVp2FlqtpAP-105" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RTh1-TizIQVp2FlqtpAP-104">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="100" y="1210" as="sourcePoint" />
-            <mxPoint x="120" y="1250" as="targetPoint" />
+            <mxPoint x="100" y="1169" as="sourcePoint" />
+            <mxPoint x="120" y="1209" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RTh1-TizIQVp2FlqtpAP-106" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="90" y="1250" as="sourcePoint" />
-            <mxPoint x="920" y="1250" as="targetPoint" />
+            <mxPoint x="90" y="1209" as="sourcePoint" />
+            <mxPoint x="920" y="1209" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RTh1-TizIQVp2FlqtpAP-107" value="T1" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="RTh1-TizIQVp2FlqtpAP-106">
@@ -724,52 +724,52 @@
         </mxCell>
         <mxCell id="RTh1-TizIQVp2FlqtpAP-111" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="359.52" y="1019" as="sourcePoint" />
-            <mxPoint x="359.52" y="1150" as="targetPoint" />
+            <mxPoint x="359.52" y="978" as="sourcePoint" />
+            <mxPoint x="359.52" y="1109" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RTh1-TizIQVp2FlqtpAP-112" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="838.52" y="1019" as="sourcePoint" />
-            <mxPoint x="838.52" y="1150" as="targetPoint" />
+            <mxPoint x="838.52" y="978" as="sourcePoint" />
+            <mxPoint x="838.52" y="1109" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RTh1-TizIQVp2FlqtpAP-113" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="518.52" y="1019" as="sourcePoint" />
-            <mxPoint x="518.52" y="1150" as="targetPoint" />
+            <mxPoint x="518.52" y="978" as="sourcePoint" />
+            <mxPoint x="518.52" y="1109" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RTh1-TizIQVp2FlqtpAP-114" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="677.52" y="1019" as="sourcePoint" />
-            <mxPoint x="677.52" y="1150" as="targetPoint" />
+            <mxPoint x="677.52" y="978" as="sourcePoint" />
+            <mxPoint x="677.52" y="1109" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RTh1-TizIQVp2FlqtpAP-119" value="throw warning message" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="1250" width="90" height="46" as="geometry" />
+          <mxGeometry x="320" y="1209" width="90" height="46" as="geometry" />
         </mxCell>
         <mxCell id="RTh1-TizIQVp2FlqtpAP-127" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="520" y="1193" as="sourcePoint" />
-            <mxPoint x="520" y="1250" as="targetPoint" />
+            <mxPoint x="520" y="1152" as="sourcePoint" />
+            <mxPoint x="520" y="1209" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="520" y="1190" />
-              <mxPoint x="520" y="1190" />
+              <mxPoint x="520" y="1149" />
+              <mxPoint x="520" y="1149" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="RTh1-TizIQVp2FlqtpAP-128" value="throw warning message" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="480" y="1250" width="90" height="46" as="geometry" />
+          <mxGeometry x="480" y="1209" width="90" height="46" as="geometry" />
         </mxCell>
-        <mxCell id="RTh1-TizIQVp2FlqtpAP-130" value="&lt;span style=&quot;&quot;&gt;- Message: Your license will be expire at 11:55, you may need to login again to continue working with Katalon Studio&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;- Button: Acknowledge&lt;/span&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="140" y="1296" width="270" height="84" as="geometry" />
+        <mxCell id="RTh1-TizIQVp2FlqtpAP-130" value="&lt;span style=&quot;&quot;&gt;- Message: Your license will expire at 11:55, you may need to log in again to continue working with Katalon Studio&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;- Button: Acknowledge&lt;/span&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1255" width="270" height="84" as="geometry" />
         </mxCell>
         <mxCell id="RTh1-TizIQVp2FlqtpAP-131" value="&lt;span style=&quot;&quot;&gt;- Message: Your license has been expired at 11:55, please log in again to continue working with Katalon Studio&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;- Button: Re-login&amp;nbsp;&lt;/span&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="480" y="1296" width="300" height="84" as="geometry" />
+          <mxGeometry x="480" y="1255" width="300" height="84" as="geometry" />
         </mxCell>
         <mxCell id="RTh1-TizIQVp2FlqtpAP-133" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;License&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="40" y="930" width="180" height="51" as="geometry" />
+          <mxGeometry x="40" y="889" width="180" height="51" as="geometry" />
         </mxCell>
         <mxCell id="RTh1-TizIQVp2FlqtpAP-134" value="&lt;span style=&quot;&quot;&gt;- Message: Y&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;our session has expired. You need to log in again to continue your work&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;- Button: Re-login&amp;nbsp;&lt;/span&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="640" y="760" width="240" height="80" as="geometry" />
@@ -777,14 +777,191 @@
         <mxCell id="RTh1-TizIQVp2FlqtpAP-136" value="throw error message" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1030" y="160" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="RTh1-TizIQVp2FlqtpAP-137" value="&lt;span style=&quot;&quot;&gt;- Message: S&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;ession renewal failed, please login to continue your work&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;- Button: Re-login&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1249" y="140" width="211" height="80" as="geometry" />
+        <mxCell id="RTh1-TizIQVp2FlqtpAP-137" value="&lt;span style=&quot;&quot;&gt;- Message: S&lt;/span&gt;&lt;span style=&quot;text-align: center;&quot;&gt;ession renewal failed, please log in again to continue your work&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;- Button: Re-login&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1249" y="140" width="221" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RTh1-TizIQVp2FlqtpAP-138" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Token&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="89" width="180" height="51" as="geometry" />
         </mxCell>
         <mxCell id="RTh1-TizIQVp2FlqtpAP-139" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Idle Timeout&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="1450" width="180" height="51" as="geometry" />
+          <mxGeometry x="50" y="1410" width="180" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="RTh1-TizIQVp2FlqtpAP-146" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="1541" as="sourcePoint" />
+            <mxPoint x="920" y="1541" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RTh1-TizIQVp2FlqtpAP-147" value="T1" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="RTh1-TizIQVp2FlqtpAP-146">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="104" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RTh1-TizIQVp2FlqtpAP-148" value="T0" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="RTh1-TizIQVp2FlqtpAP-146">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="-3" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RTh1-TizIQVp2FlqtpAP-149" value="T2" style="edgeLabel;resizable=0;html=1;;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="RTh1-TizIQVp2FlqtpAP-146">
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="-11" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RTh1-TizIQVp2FlqtpAP-150" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="1641" as="sourcePoint" />
+            <mxPoint x="920" y="1641" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RTh1-TizIQVp2FlqtpAP-151" value="T1" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="RTh1-TizIQVp2FlqtpAP-150">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="104" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RTh1-TizIQVp2FlqtpAP-152" value="T0" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="RTh1-TizIQVp2FlqtpAP-150">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="-2" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RTh1-TizIQVp2FlqtpAP-153" value="T2" style="edgeLabel;resizable=0;html=1;;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="RTh1-TizIQVp2FlqtpAP-150">
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="-10" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RTh1-TizIQVp2FlqtpAP-154" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RTh1-TizIQVp2FlqtpAP-155">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="1514" as="sourcePoint" />
+            <mxPoint x="200" y="1641" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RTh1-TizIQVp2FlqtpAP-155" value="interval checking" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1480" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RTh1-TizIQVp2FlqtpAP-156" value="license expired" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1581" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RTh1-TizIQVp2FlqtpAP-157" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RTh1-TizIQVp2FlqtpAP-156">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="1701" as="sourcePoint" />
+            <mxPoint x="440" y="1741" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RTh1-TizIQVp2FlqtpAP-158" value="record checking (timestamp)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="155" y="1638" width="90" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="RTh1-TizIQVp2FlqtpAP-159" value="interval checking" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="1481" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RTh1-TizIQVp2FlqtpAP-160" value="interval checking" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="489" y="1482" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RTh1-TizIQVp2FlqtpAP-161" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RTh1-TizIQVp2FlqtpAP-162">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="1741" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="1681" />
+              <mxPoint x="360" y="1681" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RTh1-TizIQVp2FlqtpAP-162" value="record checking (timestamp)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="315" y="1638" width="90" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="RTh1-TizIQVp2FlqtpAP-163" value="record checking (timestamp)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="474" y="1638" width="90" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="RTh1-TizIQVp2FlqtpAP-164" value="interval checking" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="648" y="1480" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RTh1-TizIQVp2FlqtpAP-165" value="record checking (timestamp)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="633" y="1636" width="90" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="RTh1-TizIQVp2FlqtpAP-166" value="interval checking" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="809" y="1480" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RTh1-TizIQVp2FlqtpAP-167" value="record checking (timestamp)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="794" y="1636" width="90" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="RTh1-TizIQVp2FlqtpAP-168" value="license abt to expire" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1581" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RTh1-TizIQVp2FlqtpAP-169" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="RTh1-TizIQVp2FlqtpAP-168">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="1701" as="sourcePoint" />
+            <mxPoint x="120" y="1741" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RTh1-TizIQVp2FlqtpAP-170" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="90" y="1741" as="sourcePoint" />
+            <mxPoint x="920" y="1741" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RTh1-TizIQVp2FlqtpAP-171" value="T1" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="RTh1-TizIQVp2FlqtpAP-170">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="104" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RTh1-TizIQVp2FlqtpAP-172" value="T0" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;" connectable="0" vertex="1" parent="RTh1-TizIQVp2FlqtpAP-170">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="-2" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RTh1-TizIQVp2FlqtpAP-173" value="T2" style="edgeLabel;resizable=0;html=1;;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="RTh1-TizIQVp2FlqtpAP-170">
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="-10" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RTh1-TizIQVp2FlqtpAP-174" value="11:55" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="RTh1-TizIQVp2FlqtpAP-170">
+          <mxGeometry x="-0.1548" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RTh1-TizIQVp2FlqtpAP-175" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="359.52" y="1510" as="sourcePoint" />
+            <mxPoint x="359.52" y="1641" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RTh1-TizIQVp2FlqtpAP-176" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="838.52" y="1510" as="sourcePoint" />
+            <mxPoint x="838.52" y="1641" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RTh1-TizIQVp2FlqtpAP-177" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="518.52" y="1510" as="sourcePoint" />
+            <mxPoint x="518.52" y="1641" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RTh1-TizIQVp2FlqtpAP-178" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="677.52" y="1510" as="sourcePoint" />
+            <mxPoint x="677.52" y="1641" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RTh1-TizIQVp2FlqtpAP-179" value="throw warning message" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1741" width="90" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="RTh1-TizIQVp2FlqtpAP-180" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="1684" as="sourcePoint" />
+            <mxPoint x="520" y="1741" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="1681" />
+              <mxPoint x="520" y="1681" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RTh1-TizIQVp2FlqtpAP-181" value="throw warning message" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1741" width="90" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="RTh1-TizIQVp2FlqtpAP-182" value="&lt;span style=&quot;&quot;&gt;- Message: Your session will expire at 11:55, please click on &quot;Acknowledge&quot; before 11:55 to keep your session&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;- Button: Acknowledge&lt;/span&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1787" width="280" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="RTh1-TizIQVp2FlqtpAP-183" value="&lt;span style=&quot;&quot;&gt;- Message: Your session has been expired at 11:55, please log in again to continue working with Katalon Studio&lt;/span&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;- Button: Re-login&amp;nbsp;&lt;/span&gt;" style="shape=note;size=20;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="480" y="1787" width="300" height="93" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
